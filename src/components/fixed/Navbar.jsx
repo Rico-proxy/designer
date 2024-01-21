@@ -8,7 +8,7 @@ const Navbar = () => {
             <div>
                  <Image src="/assets/logo.png" alt='me' width={75} height={75} />   
              </div>
-            <div className=' flex text-blue-400 font-bold space-x-4 animate-pulse'>
+            <div className=' flex text-blue-900 font-bold space-x-4 animate-pulse'>
                 <div className='hover:underline'>
                     <Link href="/">HOME</Link>
                 </div>
